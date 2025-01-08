@@ -1,0 +1,16 @@
+{
+  "users": {
+    "john.doe@example.com": {
+      "id": 1,
+      "name": "John Doe",
+      "password": "password123",  // Don't use plaintext passwords in production!
+      "role": "admin"
+    },
+    "jane.doe@example.com": {
+      "id": 2,
+      "name": "Jane Doe",
+      "password": "mypassword",
+      "role": "user"
+    }
+  }
+}
